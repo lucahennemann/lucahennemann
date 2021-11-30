@@ -1,5 +1,4 @@
 # Screamz2k
-- 
 - Learning Backend with Flask
 - Pycord Dev
 
