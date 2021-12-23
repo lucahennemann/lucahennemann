@@ -7,7 +7,7 @@
 - [Screamz Selfbot](https://github.com/screamz2k/SCREAMZ-SELFBOT) [Finished]
 - [Arkas Security Bot](https://discord.com/api/oauth2/authorize?client_id=894126755223310366&permissions=8&scope=bot%20applications.commands) [Still getting updates] 
 - Arkas Security Website [In Development]
-- [License API](https://github.com/screamz2k/License-API)
+- License API (In Development | Finishing soon)
 
 ## Interested in:
 - Web Development in Backend
