@@ -4,10 +4,10 @@
 - 14yo dev from Munich, Germany 
 - Learning coding since February 2021
 ## Projects
-- [Screamz Selfbot](https://github.com/screamz2k/SCREAMZ-SELFBOT) [Finished]
+- [Screamz Selfbot](https://github.com/screamz2k/SCREAMZ-SELFBOT)
 - [Arkas Security Bot](https://discord.com/api/oauth2/authorize?client_id=894126755223310366&permissions=8&scope=bot%20applications.commands) [Still getting updates] 
 - Arkas Security Website [In Development]
-- License API (In Development | Finishing soon)
+- [License API](https://github.com/screamz2k/License-API)
 
 ## Interested in:
 - Web Development in Backend
