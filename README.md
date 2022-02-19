@@ -1,8 +1,9 @@
 # Screamz.py
 ![Screamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=screamz2k&show_icons=true&theme=merko)
 ## About Me
-- 15yo dev from Munich, Germany 
+- 15yo Dev & Pentester from Munich, Germany 
 - Learning coding since February 2021
+- Learning Pentesting since December 2021
 ## Projects
 - [Screamz Selfbot](https://github.com/screamz2k/SCREAMZ-SELFBOT)
 - [Arkas Security Bot](https://discord.com/api/oauth2/authorize?client_id=894126755223310366&permissions=8&scope=bot%20applications.commands) [Will update soon] 
