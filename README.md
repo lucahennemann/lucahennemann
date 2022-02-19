@@ -1,7 +1,7 @@
 # Screamz.py
 ![Screamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=screamz2k&show_icons=true&theme=merko)
 ## About Me
-- 14yo dev from Munich, Germany 
+- 15yo dev from Munich, Germany 
 - Learning coding since February 2021
 ## Projects
 - [Screamz Selfbot](https://github.com/screamz2k/SCREAMZ-SELFBOT)
