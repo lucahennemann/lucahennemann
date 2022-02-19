@@ -1,5 +1,6 @@
 # Screamz.py
 ![Screamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=screamz2k&show_icons=true&theme=merko)
+<br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/screamz.png" alt="TryHackMe">
 ## About Me
 - 15yo Dev & Pentester from Munich, Germany 
