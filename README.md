@@ -13,7 +13,12 @@
 - [Route-Forcer](https://github.com/screamz2k/Route-Forcer)
 - Filebox (Development-Break)
 - Phoenix-Framework (C2-Framework) (Active-Development)
-
+## Currently Learning
+- Active Directory Pentesting
+- Sockets (Python)
+- Java
+- React
+- Bash / Powershell
 ## Interested in:
 - Web Development
 - Desktop Development
