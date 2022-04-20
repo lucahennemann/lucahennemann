@@ -1,7 +1,8 @@
 # Screamz.py
 ![Screamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=screamz2k&show_icons=true&theme=merko)
 <br>
-<img src="http://tryhackme-badges.s3.amazonaws.com/screamz.png" alt="TryHackMe">
+<a target="_blank" href="https://tryhackme.com/p/screamz"><img src="http://tryhackme-badges.s3.amazonaws.com/screamz.png" alt="TryHackMe"></a> 
+--> Not Up to Date (click on image for my profile)
 ## About Me
 - 15yo Dev & Pentester from Munich, Germany 
 - Learning coding since February 2021
