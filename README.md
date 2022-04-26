@@ -3,10 +3,12 @@
 <br>
 <a target="_blank" href="https://tryhackme.com/p/screamz"><img src="http://tryhackme-badges.s3.amazonaws.com/screamz.png" alt="TryHackMe"></a> 
 --> Not Up to Date (click on image for my profile)
+
 ## About Me
 - 15yo Dev & Pentester from Munich, Germany 
 - Learning coding since February 2021
 - Learning Pentesting since December 2021
+
 ## Projects
 - [Screamz Selfbot](https://github.com/screamz2k/SCREAMZ-SELFBOT)
 - [Arkas Security Bot](https://discord.com/api/oauth2/authorize?client_id=894126755223310366&permissions=8&scope=bot%20applications.commands) [Big-Update-Soon] 
@@ -14,26 +16,34 @@
 - [Route-Forcer](https://github.com/screamz2k/Route-Forcer)
 - Filebox (Development-Break)
 - Phoenix-Framework (C2-Framework) (Active-Development)
+
 ## Currently Learning
 - Active Directory Pentesting
 - Sockets (Python)
 - Java
 - React
 - Bash / Powershell
+
 ## Interested in:
 - Web Development
-- Desktop Development
 - Pentesting
-- Blockchain Development
 
 ## Languages:
-<img style="background: transparent" height="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1200px-Python-logo-notext.svg.png&f=1&nofb=1"><img height="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png"><img height="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" height="40"><img src="https://icon-library.com/images/java-icon-png/java-icon-png-15.jpg" height="40">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 
 ## Frameworks
-<img style="background: transparent" height="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F87%2Fbd%2F39%2F87bd39372d14ae2acda0121d9bc69d9c.png&f=1&nofb=1"><img style="background: transparent" height="40" src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png"><img style="background: transparent" height="40" src="https://pycord.dev/static/img/logo.png?size=128"><img style="background: transparent" height="40" src="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-32x32.png">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+
+## Technologies
+<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+
+## IDE
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+
+## OS
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 ## Socials
-<a target="_blank" href="https://tryhackme.com/p/screamz"><img src="https://assets.tryhackme.com/img/favicon.png" width=50 alt="Tryhackme: screamz"></a>
-<a target="_blank" href="https://instagram.com/1takeluca"><img src="https://clipartcraft.com/images/instagram-logo-transparent-background-2.png" width=50 alt="Insta: 1takeluca"></a>
-<a target="_blank" href="https://tiktok.com/@1takeluca"><img src="https://pngimg.com/uploads/tiktok/tiktok_PNG11.png" width=50 alt="TikTok: 1takeluca"></img></a>
-<br>Discord: Screamz.py#1118
+<a target="_blank" href="https://instagram.com/1takeluca"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta: 1takeluca"></a>
+<a target="_blank" href="https://tiktok.com/@1takeluca"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok: 1takeluca"></a>
+<a target="_blank" href="https://www.hackerrank.com/luca_hennemann"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 
