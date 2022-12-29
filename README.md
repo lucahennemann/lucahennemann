@@ -15,11 +15,7 @@
 - [License API](https://github.com/screamz2k/License-API)
 - [Route-Forcer](https://github.com/screamz2k/Route-Forcer)
 - Filebox (Development-Break)
-- Phoenix-Framework (C2-Framework) (Active-Development)
-
-## Currently Learning
-- Nothing except stuff thats coming into my project
-- Going to learn c++/c#/go soon
+- PhoenixC2 (C2-Framework) (Active-Development)
 
 ## Interested in:
 - Web Development
