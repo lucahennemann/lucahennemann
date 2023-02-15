@@ -5,7 +5,7 @@
 --> Not Up to Date (click on image for my profile)
 
 ## About Me
-- 15yo Dev & Pentester from Munich, Germany 
+- 16yo Dev & Pentester from Munich, Germany 
 - Learning coding since February 2021
 - Learning Pentesting since December 2021
 
