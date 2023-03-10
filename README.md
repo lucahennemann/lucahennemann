@@ -1,4 +1,4 @@
-# Screamz.py
+# Luca Hennemann
 ![Screamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=screamz2k&show_icons=true&theme=merko)
 <br>
 
