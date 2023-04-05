@@ -4,7 +4,7 @@
 
 ## About Me
 - 16yo Dev & Pentester from Munich, Germany 
-- Learning coding since February 2021
+- Learning Coding since February 2021
 - Learning Pentesting since December 2021
 
 ## Projects
