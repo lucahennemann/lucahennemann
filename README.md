@@ -8,11 +8,11 @@
 - Learning Pentesting since December 2021
 
 ## Projects
+- [PhoenixC2](https://github.com/screamz2k/PhoenixC2)
 - [Screamz Selfbot](https://github.com/screamz2k/SCREAMZ-SELFBOT)
 - [Arkas Security Bot](https://discord.com/api/oauth2/authorize?client_id=894126755223310366&permissions=8&scope=bot%20applications.commands) [Big-Update maybe] 
 - [License API](https://github.com/screamz2k/License-API)
 - [Route-Forcer](https://github.com/screamz2k/Route-Forcer)
-- PhoenixC2 (C2-Framework) (Active-Development)
 
 ## Interested in:
 - Web Development
