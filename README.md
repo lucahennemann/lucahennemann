@@ -16,7 +16,7 @@
 
 ## Interested in:
 - Web Development
-- Pentesting
+- Red Teaming
 - Dev(Sec)Ops
 
 ## Languages (Sorted by knowledge):
