@@ -34,9 +34,3 @@ src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=an
 
 ## Learning
 <a href="https://www.codecademy.com/profiles/Screamz2k"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"></a><a href="https://exercism.org/profiles/screamz2k"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"></a><a href="https://www.freecodecamp.org/screamz2k"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a><img src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"><a href="https://app.hackthebox.com/profile/952661"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"></a><a href="https://tryhackme.com/p/screamz">Tryhackme</a><a target="_blank" href="https://www.hackerrank.com/luca_hennemann"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a><a target="_blank" href="https://www.codewars.com/users/screamz2k"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
-
-## Socials
-<a target="_blank" href="https://instagram.com/1takeluca"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta: 1takeluca"></a>
-<a target="_blank" href="https://tiktok.com/@1takeluca"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok: 1takeluca"></a>
-
-
