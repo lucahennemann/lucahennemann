@@ -3,9 +3,9 @@
 <br>
 
 ## About Me
-- 16yo Dev & Pentester from Munich, Germany 
-- Learning Coding since February 2021
-- Learning Pentesting since December 2021
+- 16yo dev & pentester from Munich, Germany 
+- Learning to code since february 2021
+- Learning to pentest since december 2021
 
 ## Projects
 - [PhoenixC2](https://github.com/screamz2k/PhoenixC2)
