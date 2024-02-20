@@ -3,7 +3,7 @@
 <br>
 
 ## About Me
-- 16yo dev & pentester from Munich, Germany
+- 17yo dev & pentester from Munich, Germany
 - Student at Technical University Munich
 - Software Developer at Check24
 
