@@ -4,9 +4,9 @@
 
 ## About Me
 - 17yo highschool student
-- dev & pentester from Munich, Germany
+- Dev & pentester from Munich, Germany
 - Student at Technical University Munich
-- Software Developer at Check24
+- Software dev at Check24
 
 ## Projects
 - [PhoenixC2](https://github.com/screamz2k/PhoenixC2)
