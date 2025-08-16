@@ -1,12 +1,10 @@
 # Luca Hennemann
-![Screamz's GitHub stats](https://github-readme-stats.vercel.app/api?username=screamz2k&show_icons=true&theme=merko)
-<br>
 
 ## About Me
-- 18 yo highschool student
-- Dev & pentester from Munich, Germany
+- 18 Years Old
+- Highschool Student
 - Student at Technical University Munich
-- Software dev at Check24
+- Software Engineer at Check24
 
 ## Projects
 - [PhoenixC2](https://github.com/screamz2k/PhoenixC2)
