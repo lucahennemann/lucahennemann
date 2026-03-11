@@ -1,9 +1,9 @@
 # Luca Hennemann
 
 ## About Me
-- 18 Years Old
+- 19 Years Old
 - Highschool Student
-- Student at Technical University Munich
+- Early Student at Technical University Munich
 - Software Engineer at Check24
 
 ## Projects
