@@ -7,7 +7,7 @@
 - Working Student as a Software Engineer at Check24
 
 ## Projects
-- [PhoenixC2](https://github.com/lucahennemann/PhoenixC2)
+- [PhoenixC2](https://github.com/PhoenixC2/PhoenixC2)
 - [Screamz Selfbot](https://github.com/lucahennemann/SCREAMZ-SELFBOT)
 - [Arkas Security Bot](https://discord.com/api/oauth2/authorize?client_id=894126755223310366&permissions=8&scope=bot%20applications.commands) [Offline]
 - [License API](https://github.com/lucahennemann/License-API)
