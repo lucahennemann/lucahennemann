@@ -2,7 +2,7 @@
 
 ## About Me
 - 19 Years Old
-- Highschool Student (Currently graduating)
+- Highschool Graduate taking a gap year
 - Early Student at Technical University Munich in 11th and 12th Grade
 - Working Student as a Software Engineer at Check24
 
