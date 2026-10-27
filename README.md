@@ -3,7 +3,7 @@
 ## About Me
 - 19 Years Old
 - Working Student as a Software Engineer at Check24 Finance Systems
-- Highschool Graduate taking a gap year
+- Highschool Graduate taking a gap year for working and self study
 - Early Student at Technical University Munich in 11th and 12th Grade
 
 ## Projects
