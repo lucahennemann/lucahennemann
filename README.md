@@ -12,7 +12,7 @@
 - [License API](https://github.com/lucahennemann/License-API)
 - [Route-Forcer](https://github.com/lucahennemann/Route-Forcer)
 
-## Other Socials
+## You can find me here (occasionally doing stuff)
 - [Linkedin](https://www.linkedin.com/in/luca-hennemann/)
 - [Tryhackme](https://tryhackme.com/p/screamz)
 - [Leetcode](https://leetcode.com/u/lucahennemann/)
